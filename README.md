@@ -1,5 +1,5 @@
 # AstroGAN
-Generating galaxies with controlled morphologies using GANs.
+Implementation of Generating galaxies with controlled morphologies using GANs.
 
 The idea is to take a morphological feature and restrict the generation to that morphology.
 Below are some examples from two datasets. For each example, the row on the far left is a
